@@ -1,0 +1,4 @@
+title: >-
+  Verify that all application components, services, and servers each use their
+  own low privilege service account, that is not shared between applications nor
+  used by administrators.

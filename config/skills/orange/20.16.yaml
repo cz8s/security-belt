@@ -1,0 +1,3 @@
+title: >-
+  Verify security controls are in place to hinder firmware reverse engineering
+  (e.g., removal of verbose debugging strings).

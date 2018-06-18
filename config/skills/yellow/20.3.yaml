@@ -1,0 +1,3 @@
+title: >-
+  Verify that memory protection controls such as ASLR and DEP are enabled by the
+  IoT operating system, if applicable.

@@ -1,0 +1,3 @@
+title: >-
+  Verify that only microcontrollers that support disabling debugging interfaces
+  (e.g. JTAG, SWD) are used.

@@ -1,0 +1,6 @@
+title: >-
+  Verify that the application does not automatically fill in credentials –
+  either as hidden fields, URL arguments, Ajax requests, or in forms, as this
+  implies plain text, reversible or de-cryptable password storage. Random time
+  limited nonces are acceptable as stand ins, such as to protect change password
+  forms or forgot password forms.

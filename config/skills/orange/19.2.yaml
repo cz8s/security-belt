@@ -1,0 +1,4 @@
+title: >-
+  Verify that communications between components, such as between the application
+  server and the database server, are encrypted, particularly when the
+  components are in different containers or on different systems.

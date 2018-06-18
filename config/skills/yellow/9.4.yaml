@@ -1,0 +1,5 @@
+title: >-
+  Verify that the application sets sufficient anti-caching headers such that any
+  sensitive and personal information displayed by the application or entered by
+  the user should not be cached on disk by mainstream modern browsers (e.g.
+  visit about:cache to review disk cache).

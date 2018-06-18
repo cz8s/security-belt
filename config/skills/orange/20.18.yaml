@@ -1,0 +1,3 @@
+title: >-
+  Verify that the firmware update process is not vulnerable to time-of-check vs
+  time-of-use attacks.

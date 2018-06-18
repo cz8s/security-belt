@@ -1,0 +1,3 @@
+title: >-
+  Verify that the firmware apps utilize kernel containers for isolation between
+  apps.

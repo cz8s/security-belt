@@ -1,0 +1,3 @@
+title: >-
+  Verify that on-chip debugging interfaces such as JTAG or SWD are disabled or
+  that available protection mechanism is enabled and configured appropriately.

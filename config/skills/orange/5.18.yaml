@@ -1,0 +1,3 @@
+title: >-
+  Verify that client side validation is used as a second line of defense, in
+  addition to server side validation.

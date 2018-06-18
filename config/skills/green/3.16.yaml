@@ -1,0 +1,3 @@
+title: >-
+  Verify that high value applications limit the number of active concurrent
+  sessions.

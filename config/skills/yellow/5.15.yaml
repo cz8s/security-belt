@@ -1,0 +1,5 @@
+title: >-
+  Verify that all string variables placed into HTML or other web client code is
+  either properly contextually encoded manually, or utilize templates that
+  automatically contextually encode to ensure the application is not susceptible
+  to reflected, stored or DOM Cross-Site Scripting (XSS) attacks.

@@ -1,0 +1,4 @@
+title: >-
+  Verify that unsupported, insecure or deprecated client-side technologies are
+  not used, such as NSAPI plugins, Flash, Shockwave, Active-X, Silverlight,
+  NACL, or client-side Java applets.

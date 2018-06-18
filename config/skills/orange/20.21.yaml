@@ -1,0 +1,3 @@
+title: >-
+  Verify usage of cryptographically secure pseudo-random number generator on
+  embedded device (e.g., using chip-provided random number generators).

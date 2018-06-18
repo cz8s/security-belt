@@ -1,0 +1,4 @@
+title: >-
+  Verify that the application build and deployment processes are performed in a
+  secure and repeatable method, such as CI / CD automation and automated
+  configuration management.

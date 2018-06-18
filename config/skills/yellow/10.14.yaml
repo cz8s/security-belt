@@ -1,0 +1,3 @@
+title: >-
+  Verify that proper certification revocation, such as Online Certificate Status
+  Protocol (OCSP) Stapling, is enabled and configured.

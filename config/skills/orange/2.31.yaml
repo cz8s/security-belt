@@ -1,0 +1,4 @@
+title: >-
+  Verify that users can enrol and use TOTP verification, two-factor, biometric
+  (Touch ID or similar), or equivalent multi-factor authentication mechanism
+  that provides protection against single factor credential disclosure.

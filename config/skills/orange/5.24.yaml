@@ -1,0 +1,3 @@
+title: >-
+  Verify that where data is transferred from one DOM context to another, the
+  transfer uses safe JavaScript methods, such as using innerText or .val.

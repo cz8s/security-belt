@@ -1,0 +1,4 @@
+title: >-
+  Verify that where an application uses auto-escaping templating AND
+  auto-escaping is disabled, output should be manually contextually encoded or
+  sanitized to prevent XSS.

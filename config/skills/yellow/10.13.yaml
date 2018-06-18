@@ -1,0 +1,3 @@
+title: >-
+  Verify that perfect forward secrecy is configured to mitigate passive
+  attackers recording traffic.

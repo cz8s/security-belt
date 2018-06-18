@@ -1,0 +1,4 @@
+title: >-
+  Verify that a threat model for the target application has been produced and
+  covers off risks associated with Spoofing, Tampering, Repudiation, Information
+  Disclosure, Denial of Service, and Elevation of privilege (STRIDE).
